@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://PraveenVarshney619.github.io)
+[![MasterHead](https://camo.githubusercontent.com/6d93bbc04650eca3150ef1e262ae5870b64256aa79b9f87cb62274e2847c33b6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f793377426a584d666675466a792f67697068792e676966)](https://PraveenVarshney619.github.io)
 <h1 align="center">Hi 👋, I'm Praveen Varshney</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
