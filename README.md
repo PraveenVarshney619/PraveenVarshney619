@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen Varshney</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
-
+<h3 align="center">Hi, I am Computer Science student at Vellore Institute of Technology exploring Data Science and Machine Learning. I am passionate about coding and development of Artificial Intelligence. I am also interested in Web Development.!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PraveenVarshney619&label=Profile%20views&color=129e00&style=plastic" alt="PraveenVarshney619" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6d93bbc04650eca3150ef1e262ae5870b64256aa79b9f87cb62274e2847c33b6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f793377426a584d666675466a792f67697068792e676966">
 
