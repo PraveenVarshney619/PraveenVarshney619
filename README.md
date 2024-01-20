@@ -23,7 +23,6 @@ About Me:
 <a href="https://twitter.com/lamRealPraveen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="praveen75373021" height="30" width="40" /></a>
 <!--  <a href="https://stackoverflow.com/users/15301223" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15301223" height="30" width="40" /></a>  -->
 <a href="https://linkedin.com/in/praveen-varshney-8780641b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="praveen-varshney-8780641b8" height="30" width="40" /></a>
-<a href="https://instagram.com/_praveen_varshney_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_praveen_varshney_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
